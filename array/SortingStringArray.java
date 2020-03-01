@@ -20,10 +20,6 @@ public class SortingStringArray {
 		
 		//without Set
 		
-		
-		
-		
-		
 		for(int i=0;i<s.length;i++){
 			for(int j=i;j<s.length;j++){
 				if(s[i].compareTo(s[j])>0){
